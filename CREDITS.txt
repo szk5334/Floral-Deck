@@ -1,0 +1,91 @@
+FLORAL DECK - 70 cards (A-K and 0 in each of five suits), two versions: sun print and full colour.
+Suit letters: S spades, H hearts, D diamonds, C clubs, T stars (the fifth suit, purple).
+Every picture: Smithsonian Open Access, CC0 (public domain). Cooper Hewitt, Smithsonian Design Museum unless noted.
+Card images are 500x700. Clippings are 1000x1400. Court figures (J, Q, K): from Seth's vector 'Poker cards' set.
+
+== SPADES (blue) ==
+   AS  bird-of-paradise-bloom  -  Chintz fragments, 18th century, India  https://www.si.edu/object/chndm_1973-51-1-a_d
+   2S  design-morning-glories  -  Floral design for printed textile, 1800–1818, France  https://www.si.edu/object/chndm_1957-46-69
+   3S  design-blue-and-green-leaves  -  Floral design for printed textile, 1800–1818, France  https://www.si.edu/object/chndm_1957-46-55
+   4S  blue-and-pink-sprays  -  Textile, 1851–63, France, Alsace Mulhouse  https://www.si.edu/object/chndm_1967-10-24
+   5S  pink-carnations  -  Textile, mid-19th century, France, Mulhouse  https://www.si.edu/object/chndm_1967-10-17-a
+   6S  print-flower-sprays  -  Print, 19th century, France  https://www.si.edu/object/chndm_1989-54-1
+   7S  pink-roses-on-cream  -  Sidewall, 1890–1900, Brooklyn, New York, USA  https://www.si.edu/object/chndm_1939-45-15
+   8S  blue-lattice-with-flowers  -  Textile, 1851–63, Mulhouse, France  https://www.si.edu/object/chndm_1967-10-10-a
+   9S  chintz-roses-blue-and-red  -  Textile, 18th century, India  https://www.si.edu/object/chndm_1973-51-37
+  10S  chintz-pink-sprays  -  Textile, 18th century, India  https://www.si.edu/object/chndm_1973-51-66
+   JS  blue-lilac  -  Textile, 1851–63  https://www.si.edu/object/chndm_1967-10-14-c
+   QS  irises-and-lilac  -  Textile, 1851–63, France, Alsace, Mulhouse  https://www.si.edu/object/chndm_1967-10-14-a
+   KS  blue-flowered-design  -  Design for Flowered Fabric or Wallpaper, 1880–90, France and USA  https://www.si.edu/object/chndm_1954-136-1
+   0S  roses-on-aqua  -  Design for Wallpaper and Textiles: Flowers, 19th century, France  https://www.si.edu/object/chndm_1968-107-51
+
+== HEARTS (red) ==
+   AH  rose-bouquet  -  Textile, 1850–99, England  https://www.si.edu/object/chndm_1953-38-4
+   2H  design-red-flowers-and-blue  -  Floral design for printed textile, 1800–1818, France  https://www.si.edu/object/chndm_1957-46-52
+   3H  design-round-flowers  -  Design for Printed Cotton, 1790, France  https://www.si.edu/object/chndm_1954-44-2
+   4H  proof-red-rose  -  Woodblock Trial Proof for a Printed Textile, 1790–1800, France  https://www.si.edu/object/chndm_1909-29-9
+   5H  proof-carnation-sprig  -  Woodblock Trial Proof for a Printed Textile, 1790–1800, France  https://www.si.edu/object/chndm_1909-29-10
+   6H  design-pink-and-purple-sprays  -  Floral design for printed textile, 1800–1818, France  https://www.si.edu/object/chndm_1957-46-54
+   7H  cabbage-roses  -  Textile, 1725–50, India  https://www.si.edu/object/chndm_1968-79-2
+   8H  toile-bird  -  Textile, 1775–1800, France  https://www.si.edu/object/chndm_1980-34-13-a
+   9H  design-red-on-speckle  -  Design for Printed Textile, 18th century, France  https://www.si.edu/object/chndm_1989-65-9
+  10H  jacobean-red-flowers  -  Textile, 1750–1800, Jouy, France  https://www.si.edu/object/chndm_1973-51-83-a_b
+   JH  wallpaper-design-pink-blossom  -  Design for Wallpaper and Textiles: Flowers, 19th century, France  https://www.si.edu/object/chndm_1968-107-15
+   QH  roses-on-white-wallpaper  -  Sidewall, 1905–1915, Brooklyn, New York, USA  https://www.si.edu/object/chndm_1979-91-781
+   KH  red-roses-wallpaper  -  Sidewall, 1905–1915, Sandy Hill, New York, USA  https://www.si.edu/object/chndm_1979-91-755
+   0H  quilt-bouquet  -  Quilt fragment, ca. 1835, England  https://www.si.edu/object/chndm_1959-145-1
+
+== DIAMONDS (yellow) ==
+   AD  hibiscus-ink-print  -  Hibiscus, maple and autumn wheat grass, mid 18th - early 19th century, Japan  https://www.si.edu/object/chndm_1976-103-59
+   2D  proof-blue-stars-on-yellow  -  Woodblock Trial Proof for a Printed Textile, 1790–1800, France  https://www.si.edu/object/chndm_1909-29-15
+   3D  lily-border-design  -  Trial-proof for a printed vertical border, 1780–1800, France  https://www.si.edu/object/chndm_1931-94-1
+   4D  woodblock-pomegranate-design  -  Design for Woodblock Textile Print, ca. 1790, Flanders  https://www.si.edu/object/chndm_1956-35-1
+   5D  fern-and-bluebells  -  Drawing, late 19th century, France and USA  https://www.si.edu/object/chndm_1975-73-1-10
+   6D  design-yellow-and-magenta  -  Floral design for printed textile, 1800–1818, France  https://www.si.edu/object/chndm_1957-46-64
+   7D  design-white-vine  -  Design for a Printed Vertical Border, 18th century, France  https://www.si.edu/object/chndm_1909-13-135
+   8D  rose-wreath-design  -  Design for Wallpaper and Textiles: Flowers, 19th century, France  https://www.si.edu/object/chndm_1968-107-42
+   9D  yellow-roses-wallpaper  -  Sidewall, 1905–1915, USA  https://www.si.edu/object/chndm_1979-91-1174
+  10D  hydrangeas  -  Textile, late 19th century, England  https://www.si.edu/object/chndm_1960-79-33
+   JD  painted-bouquet-design  -  Design for Wallpaper and Textiles: Flowers, 19th century, France  https://www.si.edu/object/chndm_1968-107-47
+   QD  wallpaper-design-wildflowers  -  Design for Wallpaper and Textile: Flowers, 19th century, France  https://www.si.edu/object/chndm_1968-107-1
+   KD  wallpaper-design-wallflowers  -  Design for Wallpaper and Textile: Flowers, 19th century, France  https://www.si.edu/object/chndm_1968-107-11
+   0D  wallpaper-design-crown-imperial  -  Design for Wallpaper and Textiles: Flowers, 19th century, France  https://www.si.edu/object/chndm_1968-107-16
+
+== CLUBS (green) ==
+   AC  trial-proof-carnation  -  Trial Proof for a Flower Chintz, 1790–1800, France  https://www.si.edu/object/chndm_1898-21-25-a
+   2C  proof-blue-narcissus  -  Woodblock Trial Proof for a Printed Textile, 1780–90, France  https://www.si.edu/object/chndm_1909-29-11
+   3C  proof-red-and-green-sprig  -  Trial Proof for a Printed Textile, 1790–1800, France  https://www.si.edu/object/chndm_1909-29-12
+   4C  design-trailing-pink-and-blue  -  Design for a printed fabric, 1820–40, France  https://www.si.edu/object/chndm_1920-36-26
+   5C  escholtzia  -  Escholtzia, ca. 1890, England  https://www.si.edu/object/chndm_1952-105-38
+   6C  design-thistles-and-bells  -  Floral design for printed textile, 1800–1818, France  https://www.si.edu/object/chndm_1957-46-63
+   7C  design-grapevine  -  Floral design for printed textile, 1800–1818, France  https://www.si.edu/object/chndm_1957-46-66
+   8C  design-flowering-branches  -  Floral design for printed textile, 1800–1818, France  https://www.si.edu/object/chndm_1957-46-68
+   9C  design-poppy-and-primrose  -  Floral design for printed textile, 1800–1818, France  https://www.si.edu/object/chndm_1957-46-53
+  10C  bright-floral-wallpaper  -  Sidewall, ca. 1800, France  https://www.si.edu/object/chndm_1968-111-11
+   JC  design-pink-roses  -  Design for a woven fabric, 1830–50, France  https://www.si.edu/object/chndm_1920-36-27
+   QC  design-pink-wild-roses  -  Design for a printed fabric, 1820–40, France  https://www.si.edu/object/chndm_1920-36-25
+   KC  lilac-roses-on-white  -  Sidewall, 1830–50, France  https://www.si.edu/object/chndm_1974-81-6-a_b
+   0C  tulips-and-forget-me-nots  -  Textile, 1840–60, England  https://www.si.edu/object/chndm_1952-105-12
+
+== STARS (purple) ==
+   AT  wisteria-on-trellis  -  Sidewall, 1902, Buffalo, New York, USA  https://www.si.edu/object/chndm_1971-58-9-a_b
+   2T  design-purple-feathery-sprays  -  Floral design for printed textiles, 1800–1818, France  https://www.si.edu/object/chndm_1957-46-47-c
+   3T  violet-bouquets-on-aqua  -  Textile, 1851–63, Mulhouse, France  https://www.si.edu/object/chndm_1967-10-3-b
+   4T  violet-sprigs-frieze  -  Frieze, 1905–1915, USA  https://www.si.edu/object/chndm_1979-91-283
+   5T  mauve-silk-flowering-branches  -  Textile, ca. 1775, France  https://www.si.edu/object/chndm_1952-149-5
+   6T  purple-hydrangea-and-lilac  -  Textile, mid-19th century, France, Mulhouse  https://www.si.edu/object/chndm_1967-10-19-a
+   7T  cascading-wisteria  -  Sidewall, 1890–1920, Buffalo, New York, USA  https://www.si.edu/object/chndm_1973-2-4
+   8T  irises-on-cream  -  Sidewall, 1890–1920, possibly USA  https://www.si.edu/object/chndm_1973-2-9
+   9T  pansy-and-violet-bouquet  -  Designs for Wallpaper and Textiles: Flowers, 19th century, France  https://www.si.edu/object/chndm_1968-107-26
+  10T  design-purple-flower-sprigs  -  Design for the Embroidery of Wearing Apparel, No. 18, of the "Fabrique de St. Ruf", 1780–1790, France  https://www.si.edu/object/chndm_1920-36-65
+   JT  lilacs-on-grey  -  Textile, mid-19th century, France, Mulhouse  https://www.si.edu/object/chndm_1967-10-20-a
+   QT  violets-on-lilac  -  Textile, 1851–63, Mulhouse, France  https://www.si.edu/object/chndm_1967-10-6-a
+   KT  purple-roses-silk  -  Textile, ca. 1915, Lyon, France  https://www.si.edu/object/chndm_1938-82-163-b
+   0T  design-bold-purple-flowers  -  Floral design for printed textile, 1800–1818, France  https://www.si.edu/object/chndm_1957-46-65
+  (9T: a collector's stamp below the bouquet was painted out of the clipping.)
+  Stars courts: the hearts court figures, recoloured purple and gold.
+
+== IN THE IMAGE FOLDERS BUT NOT IN THE DECK ==
+  african-marigold  -  African Marigold, 1876  https://www.si.edu/object/chndm_1936-5-1-a_b
+  purple-roses-on-stripes  -  Sidewall - sample, 1906–08  https://www.si.edu/object/chndm_1985-19-76
+  red-bird-in-tree  -  Textile, 1780–89  https://www.si.edu/object/chndm_1975-60-20

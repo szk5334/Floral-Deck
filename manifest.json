@@ -1,0 +1,2085 @@
+{
+ "items": {
+  "bird-of-paradise-bloom": {
+   "piles": [
+    "sunprints"
+   ],
+   "title": "Chintz fragments",
+   "date": "18th century",
+   "place": "India",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1973-51-1-a_d",
+   "image": "CHSDM-D0BF47FBA9472-000001",
+   "page": "https://www.si.edu/object/chndm_1973-51-1-a_d",
+   "licence": "CC0",
+   "scan": [
+    4000,
+    3655
+   ],
+   "crop": [
+    1351,
+    208,
+    3439,
+    3128
+   ],
+   "batch": 1,
+   "sun_ink": "S",
+   "suggested_ink": "S"
+  },
+  "rose-bouquet": {
+   "piles": [
+    "sunprints"
+   ],
+   "title": "Textile",
+   "date": "1850–99",
+   "place": "England",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1953-38-4",
+   "image": "CHSDM-8B9A76610D362-000001",
+   "page": "https://www.si.edu/object/chndm_1953-38-4",
+   "licence": "CC0",
+   "scan": [
+    3651,
+    4000
+   ],
+   "crop": [
+    1589,
+    2640,
+    2444,
+    3831
+   ],
+   "batch": 1,
+   "sun_ink": "H",
+   "suggested_ink": "H"
+  },
+  "hydrangeas": {
+   "piles": [
+    "maybe"
+   ],
+   "title": "Textile",
+   "date": "late 19th century",
+   "place": "England",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1960-79-33",
+   "image": "CHSDM-E8EED650D60D2-000001",
+   "page": "https://www.si.edu/object/chndm_1960-79-33",
+   "licence": "CC0",
+   "scan": [
+    2259,
+    4000
+   ],
+   "crop": [
+    448,
+    256,
+    1120,
+    1191
+   ],
+   "batch": 1,
+   "suggested_ink": "D",
+   "sun_ink": "D"
+  },
+  "trial-proof-carnation": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Trial Proof for a Flower Chintz",
+   "date": "1790–1800",
+   "place": "France",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1898-21-25-a",
+   "image": "CHSDM-1898-21-25-aMattFlynn",
+   "page": "https://www.si.edu/object/chndm_1898-21-25-a",
+   "licence": "CC0",
+   "scan": [
+    2520,
+    3000
+   ],
+   "crop": [
+    420,
+    1559,
+    1061,
+    2453
+   ],
+   "batch": 1,
+   "sun_ink": "C",
+   "suggested_ink": "C"
+  },
+  "cabbage-roses": {
+   "piles": [
+    "maybe"
+   ],
+   "title": "Textile",
+   "date": "1725–50",
+   "place": "India",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1968-79-2",
+   "image": "CHSDM-9AD431C7EF222-000001",
+   "page": "https://www.si.edu/object/chndm_1968-79-2",
+   "licence": "CC0",
+   "scan": [
+    3205,
+    4000
+   ],
+   "crop": [
+    2160,
+    2640,
+    3016,
+    3832
+   ],
+   "batch": 1,
+   "suggested_ink": "H",
+   "sun_ink": "H"
+  },
+  "proof-red-rose": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Woodblock Trial Proof for a Printed Textile",
+   "date": "1790–1800",
+   "place": "France",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1909-29-9",
+   "image": "CHSDM-1909-29-9MattFlynn",
+   "page": "https://www.si.edu/object/chndm_1909-29-9",
+   "licence": "CC0",
+   "scan": [
+    2373,
+    3000
+   ],
+   "crop": [
+    427,
+    77,
+    1946,
+    2203
+   ],
+   "batch": 2,
+   "suggested_ink": "H",
+   "sun_ink": "H"
+  },
+  "proof-carnation-sprig": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Woodblock Trial Proof for a Printed Textile",
+   "date": "1790–1800",
+   "place": "France",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1909-29-10",
+   "image": "CHSDM-1909-29-10MattFlynn",
+   "page": "https://www.si.edu/object/chndm_1909-29-10",
+   "licence": "CC0",
+   "scan": [
+    2156,
+    3000
+   ],
+   "crop": [
+    668,
+    324,
+    2005,
+    2196
+   ],
+   "batch": 2,
+   "suggested_ink": "H",
+   "sun_ink": "H"
+  },
+  "proof-blue-narcissus": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Woodblock Trial Proof for a Printed Textile",
+   "date": "1780–90",
+   "place": "France",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1909-29-11",
+   "image": "CHSDM-1909-29-11MattFlynn",
+   "page": "https://www.si.edu/object/chndm_1909-29-11",
+   "licence": "CC0",
+   "scan": [
+    2472,
+    3000
+   ],
+   "crop": [
+    371,
+    298,
+    2002,
+    2582
+   ],
+   "batch": 2,
+   "suggested_ink": "S",
+   "sun_ink": "C"
+  },
+  "proof-blue-stars-on-yellow": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Woodblock Trial Proof for a Printed Textile",
+   "date": "1790–1800",
+   "place": "France",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1909-29-15",
+   "image": "CHSDM-1909-29-15MattFlynn",
+   "page": "https://www.si.edu/object/chndm_1909-29-15",
+   "licence": "CC0",
+   "scan": [
+    1885,
+    3000
+   ],
+   "crop": [
+    170,
+    118,
+    1715,
+    2282
+   ],
+   "batch": 2,
+   "suggested_ink": "S",
+   "sun_ink": "D"
+  },
+  "design-yellow-and-magenta": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Floral design for printed textile",
+   "date": "1800–1818",
+   "place": "France",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1957-46-64",
+   "image": "CHSDM-A17F812E94A32-000001",
+   "page": "https://www.si.edu/object/chndm_1957-46-64",
+   "licence": "CC0",
+   "scan": [
+    2462,
+    3520
+   ],
+   "crop": [
+    1084,
+    887,
+    2119,
+    2330
+   ],
+   "batch": 2,
+   "suggested_ink": "D",
+   "sun_ink": "D"
+  },
+  "design-poppy-and-primrose": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Floral design for printed textile",
+   "date": "1800–1818",
+   "place": "France",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1957-46-53",
+   "image": "CHSDM-37B0FBB66C862-000001",
+   "page": "https://www.si.edu/object/chndm_1957-46-53",
+   "licence": "CC0",
+   "scan": [
+    1863,
+    2240
+   ],
+   "crop": [
+    470,
+    376,
+    1429,
+    1716
+   ],
+   "batch": 2,
+   "suggested_ink": "H",
+   "sun_ink": "C"
+  },
+  "design-pink-wild-roses": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Design for a printed fabric",
+   "date": "1820–40",
+   "place": "France",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1920-36-25",
+   "image": "CHSDM-1920-36-25MattFlynn",
+   "page": "https://www.si.edu/object/chndm_1920-36-25",
+   "licence": "CC0",
+   "scan": [
+    1832,
+    3000
+   ],
+   "crop": [
+    54,
+    1636,
+    576,
+    2366
+   ],
+   "batch": 2,
+   "suggested_ink": "H",
+   "sun_ink": "C"
+  },
+  "irises-and-lilac": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Textile",
+   "date": "1851–63",
+   "place": "France, Alsace, Mulhouse",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1967-10-14-a",
+   "image": "CHSDM-353B128AA64B2-000001",
+   "page": "https://www.si.edu/object/chndm_1967-10-14-a",
+   "licence": "CC0",
+   "scan": [
+    3878,
+    4000
+   ],
+   "crop": [
+    1900,
+    434,
+    3451,
+    2606
+   ],
+   "batch": 2,
+   "suggested_ink": "S",
+   "sun_ink": "S"
+  },
+  "blue-lilac": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Textile",
+   "date": "1851–63",
+   "place": "",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1967-10-14-c",
+   "image": "CHSDM-05C96BCF86AB2-000001",
+   "page": "https://www.si.edu/object/chndm_1967-10-14-c",
+   "licence": "CC0",
+   "scan": [
+    4000,
+    3467
+   ],
+   "crop": [
+    1720,
+    323,
+    3240,
+    2451
+   ],
+   "batch": 2,
+   "suggested_ink": "S",
+   "sun_ink": "S"
+  },
+  "jacobean-red-flowers": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Textile",
+   "date": "1750–1800",
+   "place": "Jouy, France",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1973-51-83-a_b",
+   "image": "CHSDM-CH1235",
+   "page": "https://www.si.edu/object/chndm_1973-51-83-a_b",
+   "licence": "CC0",
+   "scan": [
+    1254,
+    1280
+   ],
+   "crop": [
+    699,
+    269,
+    1247,
+    1034
+   ],
+   "batch": 2,
+   "suggested_ink": "H",
+   "sun_ink": "H"
+  },
+  "tulips-and-forget-me-nots": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Textile",
+   "date": "1840–60",
+   "place": "England",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1952-105-12",
+   "image": "CHSDM-49A5B2D8DB662-000001",
+   "page": "https://www.si.edu/object/chndm_1952-105-12",
+   "licence": "CC0",
+   "scan": [
+    3666,
+    4000
+   ],
+   "crop": [
+    240,
+    1080,
+    1440,
+    2759
+   ],
+   "batch": 2,
+   "suggested_ink": "H",
+   "sun_ink": "C"
+  },
+  "pink-carnations": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Textile",
+   "date": "mid-19th century",
+   "place": "France, Mulhouse",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1967-10-17-a",
+   "image": "CHSDM-E0173FF822212-000001",
+   "page": "https://www.si.edu/object/chndm_1967-10-17-a",
+   "licence": "CC0",
+   "scan": [
+    3585,
+    2143
+   ],
+   "crop": [
+    1470,
+    118,
+    2832,
+    2025
+   ],
+   "batch": 2,
+   "suggested_ink": "H",
+   "sun_ink": "S"
+  },
+  "toile-bird": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Textile",
+   "date": "1775–1800",
+   "place": "France",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1980-34-13-a",
+   "image": "CHSDM-D516D60864702-000001",
+   "page": "https://www.si.edu/object/chndm_1980-34-13-a",
+   "licence": "CC0",
+   "scan": [
+    2694,
+    4000
+   ],
+   "crop": [
+    1679,
+    560,
+    2487,
+    1687
+   ],
+   "batch": 2,
+   "suggested_ink": "H",
+   "sun_ink": "H"
+  },
+  "quilt-bouquet": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Quilt fragment",
+   "date": "ca. 1835",
+   "place": "England",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1959-145-1",
+   "image": "CHSDM-FF4B4EE73BD62-000001",
+   "page": "https://www.si.edu/object/chndm_1959-145-1",
+   "licence": "CC0",
+   "scan": [
+    2629,
+    3840
+   ],
+   "crop": [
+    845,
+    2227,
+    1628,
+    3318
+   ],
+   "batch": 2,
+   "suggested_ink": "H",
+   "sun_ink": "H"
+  },
+  "design-pink-and-purple-sprays": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Floral design for printed textile",
+   "date": "1800–1818",
+   "place": "France",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1957-46-54",
+   "image": "CHSDM-C6CE2BBA50752-000001",
+   "page": "https://www.si.edu/object/chndm_1957-46-54",
+   "licence": "CC0",
+   "scan": [
+    2118,
+    2560
+   ],
+   "crop": [
+    1024,
+    410,
+    1572,
+    1172
+   ],
+   "batch": 3,
+   "suggested_ink": "H",
+   "sun_ink": "H"
+  },
+  "design-grapevine": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Floral design for printed textile",
+   "date": "1800–1818",
+   "place": "France",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1957-46-66",
+   "image": "CHSDM-247B56A4672E2-000001",
+   "page": "https://www.si.edu/object/chndm_1957-46-66",
+   "licence": "CC0",
+   "scan": [
+    3426,
+    3840
+   ],
+   "crop": [
+    922,
+    1920,
+    1744,
+    3065
+   ],
+   "batch": 3,
+   "suggested_ink": "D",
+   "sun_ink": "C"
+  },
+  "design-red-flowers-and-blue": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Floral design for printed textile",
+   "date": "1800–1818",
+   "place": "France",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1957-46-52",
+   "image": "CHSDM-46608D433D7A2-000001",
+   "page": "https://www.si.edu/object/chndm_1957-46-52",
+   "licence": "CC0",
+   "scan": [
+    1824,
+    2240
+   ],
+   "crop": [
+    358,
+    627,
+    838,
+    1295
+   ],
+   "batch": 3,
+   "suggested_ink": "H",
+   "sun_ink": "H"
+  },
+  "blue-flowered-design": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Design for Flowered Fabric or Wallpaper",
+   "date": "1880–90",
+   "place": "France and USA",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1954-136-1",
+   "image": "CHSDM-1954-136-1MattFlynn",
+   "page": "https://www.si.edu/object/chndm_1954-136-1",
+   "licence": "CC0",
+   "scan": [
+    1919,
+    3000
+   ],
+   "crop": [
+    702,
+    540,
+    1277,
+    1343
+   ],
+   "batch": 3,
+   "suggested_ink": "S",
+   "sun_ink": "S"
+  },
+  "design-pink-roses": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Design for a woven fabric",
+   "date": "1830–50",
+   "place": "France",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1920-36-27",
+   "image": "CHSDM-1920-36-27MattFlynn",
+   "page": "https://www.si.edu/object/chndm_1920-36-27",
+   "licence": "CC0",
+   "scan": [
+    2509,
+    3000
+   ],
+   "crop": [
+    600,
+    780,
+    1242,
+    1673
+   ],
+   "batch": 3,
+   "suggested_ink": "H",
+   "sun_ink": "C"
+  },
+  "design-trailing-pink-and-blue": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Design for a printed fabric",
+   "date": "1820–40",
+   "place": "France",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1920-36-26",
+   "image": "CHSDM-1920-36-26MattFlynn",
+   "page": "https://www.si.edu/object/chndm_1920-36-26",
+   "licence": "CC0",
+   "scan": [
+    2507,
+    3000
+   ],
+   "crop": [
+    960,
+    960,
+    1602,
+    1854
+   ],
+   "batch": 3,
+   "suggested_ink": "C",
+   "sun_ink": "C"
+  },
+  "design-round-flowers": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Design for Printed Cotton",
+   "date": "1790",
+   "place": "France",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1954-44-2",
+   "image": "CHSDM-1954-44-2MattFlynn",
+   "page": "https://www.si.edu/object/chndm_1954-44-2",
+   "licence": "CC0",
+   "scan": [
+    2555,
+    3000
+   ],
+   "crop": [
+    1380,
+    720,
+    2022,
+    1614
+   ],
+   "batch": 3,
+   "suggested_ink": "H",
+   "sun_ink": "H"
+  },
+  "design-white-vine": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Design for a Printed Vertical Border",
+   "date": "18th century",
+   "place": "France",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1909-13-135",
+   "image": "CHSDM-1909-13-135MattFlynn",
+   "page": "https://www.si.edu/object/chndm_1909-13-135",
+   "licence": "CC0",
+   "scan": [
+    1746,
+    3000
+   ],
+   "crop": [
+    288,
+    1680,
+    810,
+    2406
+   ],
+   "batch": 3,
+   "suggested_ink": "D",
+   "sun_ink": "D"
+  },
+  "design-red-on-speckle": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Design for Printed Textile",
+   "date": "18th century",
+   "place": "France",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1989-65-9",
+   "image": "CHSDM-ABDCF1DE7CD12-000001",
+   "page": "https://www.si.edu/object/chndm_1989-65-9",
+   "licence": "CC0",
+   "scan": [
+    3055,
+    4000
+   ],
+   "crop": [
+    880,
+    641,
+    1735,
+    1839
+   ],
+   "batch": 3,
+   "suggested_ink": "H",
+   "sun_ink": "H"
+  },
+  "fern-and-bluebells": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Drawing",
+   "date": "late 19th century",
+   "place": "France and USA",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1975-73-1-10",
+   "image": "CHSDM-1975-73-1-10MattFlynn",
+   "page": "https://www.si.edu/object/chndm_1975-73-1-10",
+   "licence": "CC0",
+   "scan": [
+    1986,
+    3000
+   ],
+   "crop": [
+    648,
+    432,
+    1242,
+    1260
+   ],
+   "batch": 3,
+   "suggested_ink": "D",
+   "sun_ink": "D"
+  },
+  "print-flower-sprays": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Print",
+   "date": "19th century",
+   "place": "France",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1989-54-1",
+   "image": "CHSDM-E804C88F4C382-000001",
+   "page": "https://www.si.edu/object/chndm_1989-54-1",
+   "licence": "CC0",
+   "scan": [
+    2380,
+    3778
+   ],
+   "crop": [
+    393,
+    1277,
+    1390,
+    2667
+   ],
+   "batch": 3,
+   "suggested_ink": "H",
+   "sun_ink": "S"
+  },
+  "escholtzia": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Escholtzia",
+   "date": "ca. 1890",
+   "place": "England",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1952-105-38",
+   "image": "CHSDM-C43500CAF4B72-000001",
+   "page": "https://www.si.edu/object/chndm_1952-105-38",
+   "licence": "CC0",
+   "scan": [
+    3393,
+    4000
+   ],
+   "crop": [
+    839,
+    800,
+    2554,
+    3200
+   ],
+   "batch": 3,
+   "suggested_ink": "C",
+   "sun_ink": "C"
+  },
+  "roses-on-aqua": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Design for Wallpaper and Textiles: Flowers",
+   "date": "19th century",
+   "place": "France",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1968-107-51",
+   "image": "CHSDM-1968-107-51MattFlynn",
+   "page": "https://www.si.edu/object/chndm_1968-107-51",
+   "licence": "CC0",
+   "scan": [
+    3000,
+    2909
+   ],
+   "crop": [
+    1320,
+    780,
+    1938,
+    1644
+   ],
+   "batch": 3,
+   "suggested_ink": "S",
+   "sun_ink": "S"
+  },
+  "hibiscus-ink-print": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Hibiscus, maple and autumn wheat grass",
+   "date": "mid 18th - early 19th century",
+   "place": "Japan",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1976-103-59",
+   "image": "CHSDM-3A50F3834BC62_02-000001",
+   "page": "https://www.si.edu/object/chndm_1976-103-59",
+   "licence": "CC0",
+   "scan": [
+    2764,
+    4000
+   ],
+   "crop": [
+    639,
+    850,
+    2139,
+    2950
+   ],
+   "batch": 3,
+   "suggested_ink": "S",
+   "sun_ink": "D"
+  },
+  "wallpaper-design-wallflowers": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Design for Wallpaper and Textile: Flowers",
+   "date": "19th century",
+   "place": "France",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1968-107-11",
+   "image": "CHSDM-93E2692000452-000001",
+   "page": "https://www.si.edu/object/chndm_1968-107-11",
+   "licence": "CC0",
+   "scan": [
+    4000,
+    3038
+   ],
+   "crop": [
+    1408,
+    960,
+    2056,
+    1864
+   ],
+   "batch": 4,
+   "suggested_ink": "D",
+   "sun_ink": "D"
+  },
+  "wallpaper-design-pink-blossom": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Design for Wallpaper and Textiles: Flowers",
+   "date": "19th century",
+   "place": "France",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1968-107-15",
+   "image": "CHSDM-69901656DD892-000001",
+   "page": "https://www.si.edu/object/chndm_1968-107-15",
+   "licence": "CC0",
+   "scan": [
+    2856,
+    4000
+   ],
+   "crop": [
+    1200,
+    1196,
+    2056,
+    2396
+   ],
+   "batch": 4,
+   "suggested_ink": "H",
+   "sun_ink": "H"
+  },
+  "wallpaper-design-crown-imperial": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Design for Wallpaper and Textiles: Flowers",
+   "date": "19th century",
+   "place": "France",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1968-107-16",
+   "image": "CHSDM-897766DB86B12-000001",
+   "page": "https://www.si.edu/object/chndm_1968-107-16",
+   "licence": "CC0",
+   "scan": [
+    2993,
+    4000
+   ],
+   "crop": [
+    775,
+    1224,
+    2026,
+    2976
+   ],
+   "batch": 4,
+   "suggested_ink": "D",
+   "sun_ink": "D"
+  },
+  "wallpaper-design-wildflowers": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Design for Wallpaper and Textile: Flowers",
+   "date": "19th century",
+   "place": "France",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1968-107-1",
+   "image": "CHSDM-1968-107-1MattFlynn",
+   "page": "https://www.si.edu/object/chndm_1968-107-1",
+   "licence": "CC0",
+   "scan": [
+    3000,
+    2364
+   ],
+   "crop": [
+    1392,
+    1344,
+    1896,
+    2046
+   ],
+   "batch": 4,
+   "suggested_ink": "D",
+   "sun_ink": "D"
+  },
+  "roses-on-white-wallpaper": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Sidewall",
+   "date": "1905–1915",
+   "place": "Brooklyn, New York, USA",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1979-91-781",
+   "image": "CHSDM-161471_01-000001",
+   "page": "https://www.si.edu/object/chndm_1979-91-781",
+   "licence": "CC0",
+   "scan": [
+    2327,
+    4000
+   ],
+   "crop": [
+    512,
+    2303,
+    1208,
+    3271
+   ],
+   "batch": 4,
+   "suggested_ink": "H",
+   "sun_ink": "H"
+  },
+  "red-roses-wallpaper": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Sidewall",
+   "date": "1905–1915",
+   "place": "Sandy Hill, New York, USA",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1979-91-755",
+   "image": "CHSDM-161442_01-000001",
+   "page": "https://www.si.edu/object/chndm_1979-91-755",
+   "licence": "CC0",
+   "scan": [
+    2311,
+    3999
+   ],
+   "crop": [
+    832,
+    2047,
+    1520,
+    3007
+   ],
+   "batch": 4,
+   "suggested_ink": "H",
+   "sun_ink": "H"
+  },
+  "purple-roses-on-stripes": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Sidewall - sample",
+   "date": "1906–08",
+   "place": "USA",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1985-19-76",
+   "image": "CHSDM-chw822",
+   "page": "https://www.si.edu/object/chndm_1985-19-76",
+   "licence": "CC0",
+   "scan": [
+    897,
+    1280
+   ],
+   "crop": [
+    307,
+    691,
+    576,
+    1068
+   ],
+   "batch": 4,
+   "suggested_ink": "H",
+   "sun_ink": "C"
+  },
+  "yellow-roses-wallpaper": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Sidewall",
+   "date": "1905–1915",
+   "place": "USA",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1979-91-1174",
+   "image": "CHSDM-160528_01-000001",
+   "page": "https://www.si.edu/object/chndm_1979-91-1174",
+   "licence": "CC0",
+   "scan": [
+    2400,
+    4000
+   ],
+   "crop": [
+    144,
+    2952,
+    864,
+    3960
+   ],
+   "batch": 4,
+   "suggested_ink": "D",
+   "sun_ink": "D"
+  },
+  "bright-floral-wallpaper": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Sidewall",
+   "date": "ca. 1800",
+   "place": "France",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1968-111-11",
+   "image": "CHSDM-1968-111-11MattFlynn",
+   "page": "https://www.si.edu/object/chndm_1968-111-11",
+   "licence": "CC0",
+   "scan": [
+    2536,
+    3000
+   ],
+   "crop": [
+    360,
+    1800,
+    1002,
+    2694
+   ],
+   "batch": 4,
+   "suggested_ink": "H",
+   "sun_ink": "C"
+  },
+  "woodblock-pomegranate-design": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Design for Woodblock Textile Print",
+   "date": "ca. 1790",
+   "place": "Flanders",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1956-35-1",
+   "image": "CHSDM-1956-35-1MattFlynn",
+   "page": "https://www.si.edu/object/chndm_1956-35-1",
+   "licence": "CC0",
+   "scan": [
+    3000,
+    1852
+   ],
+   "crop": [
+    825,
+    191,
+    1875,
+    1661
+   ],
+   "batch": 4,
+   "suggested_ink": "D",
+   "sun_ink": "D"
+  },
+  "african-marigold": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "African Marigold",
+   "date": "1876",
+   "place": "England",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1936-5-1-a_b",
+   "image": "CHSDM-1936-5-1-aMattFlynn",
+   "page": "https://www.si.edu/object/chndm_1936-5-1-a_b",
+   "licence": "CC0",
+   "scan": [
+    3000,
+    2085
+   ],
+   "crop": [
+    870,
+    160,
+    2130,
+    1924
+   ],
+   "batch": 4,
+   "suggested_ink": "S",
+   "sun_ink": "S"
+  },
+  "red-bird-in-tree": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Textile",
+   "date": "1780–89",
+   "place": "France",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1975-60-20",
+   "image": "CHSDM-63C3110D639D2-000001",
+   "page": "https://www.si.edu/object/chndm_1975-60-20",
+   "licence": "CC0",
+   "scan": [
+    3854,
+    4000
+   ],
+   "crop": [
+    720,
+    1200,
+    1576,
+    2391
+   ],
+   "batch": 4,
+   "suggested_ink": "H",
+   "sun_ink": "H"
+  },
+  "blue-and-pink-sprays": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Textile",
+   "date": "1851–63",
+   "place": "France, Alsace Mulhouse",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1967-10-24",
+   "image": "CHSDM-4BF59977ED4E2-000001",
+   "page": "https://www.si.edu/object/chndm_1967-10-24",
+   "licence": "CC0",
+   "scan": [
+    3400,
+    1927
+   ],
+   "crop": [
+    1287,
+    385,
+    2113,
+    1542
+   ],
+   "batch": 4,
+   "suggested_ink": "S",
+   "sun_ink": "S"
+  },
+  "proof-red-and-green-sprig": {
+   "piles": [
+    "maybe"
+   ],
+   "title": "Trial Proof for a Printed Textile",
+   "date": "1790–1800",
+   "place": "France",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1909-29-12",
+   "image": "CHSDM-1909-29-12MattFlynn",
+   "page": "https://www.si.edu/object/chndm_1909-29-12",
+   "licence": "CC0",
+   "scan": [
+    1990,
+    3000
+   ],
+   "crop": [
+    398,
+    201,
+    1910,
+    2319
+   ],
+   "batch": 5,
+   "suggested_ink": "H",
+   "sun_ink": "C"
+  },
+  "lily-border-design": {
+   "piles": [
+    "maybe"
+   ],
+   "title": "Trial-proof for a printed vertical border",
+   "date": "1780–1800",
+   "place": "France",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1931-94-1",
+   "image": "CHSDM-1931-94-1MattFlynn",
+   "page": "https://www.si.edu/object/chndm_1931-94-1",
+   "licence": "CC0",
+   "scan": [
+    1931,
+    3000
+   ],
+   "crop": [
+    869,
+    1124,
+    1834,
+    2476
+   ],
+   "batch": 5,
+   "suggested_ink": "S",
+   "sun_ink": "D"
+  },
+  "design-blue-and-green-leaves": {
+   "piles": [
+    "maybe"
+   ],
+   "title": "Floral design for printed textile",
+   "date": "1800–1818",
+   "place": "France",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1957-46-55",
+   "image": "CHSDM-9CC88F72A8CE2-000001",
+   "page": "https://www.si.edu/object/chndm_1957-46-55",
+   "licence": "CC0",
+   "scan": [
+    1798,
+    2240
+   ],
+   "crop": [
+    269,
+    1120,
+    748,
+    1787
+   ],
+   "batch": 5,
+   "suggested_ink": "S",
+   "sun_ink": "S"
+  },
+  "design-flowering-branches": {
+   "piles": [
+    "maybe"
+   ],
+   "title": "Floral design for printed textile",
+   "date": "1800–1818",
+   "place": "France",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1957-46-68",
+   "image": "CHSDM-1067A147C0E82-000001",
+   "page": "https://www.si.edu/object/chndm_1957-46-68",
+   "licence": "CC0",
+   "scan": [
+    3182,
+    4000
+   ],
+   "crop": [
+    1120,
+    1520,
+    1976,
+    2712
+   ],
+   "batch": 5,
+   "suggested_ink": "H",
+   "sun_ink": "C"
+  },
+  "design-thistles-and-bells": {
+   "piles": [
+    "maybe"
+   ],
+   "title": "Floral design for printed textile",
+   "date": "1800–1818",
+   "place": "France",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1957-46-63",
+   "image": "CHSDM-BACEE04641FF2-000001",
+   "page": "https://www.si.edu/object/chndm_1957-46-63",
+   "licence": "CC0",
+   "scan": [
+    2577,
+    3520
+   ],
+   "crop": [
+    704,
+    2112,
+    1457,
+    3161
+   ],
+   "batch": 5,
+   "suggested_ink": "C",
+   "sun_ink": "C"
+  },
+  "design-morning-glories": {
+   "piles": [
+    "maybe"
+   ],
+   "title": "Floral design for printed textile",
+   "date": "1800–1818",
+   "place": "France",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1957-46-69",
+   "image": "CHSDM-83AB1DDFB6CE2-000001",
+   "page": "https://www.si.edu/object/chndm_1957-46-69",
+   "licence": "CC0",
+   "scan": [
+    3209,
+    4000
+   ],
+   "crop": [
+    1200,
+    2320,
+    2056,
+    3513
+   ],
+   "batch": 5,
+   "suggested_ink": "S",
+   "sun_ink": "S"
+  },
+  "chintz-roses-blue-and-red": {
+   "piles": [
+    "maybe"
+   ],
+   "title": "Textile",
+   "date": "18th century",
+   "place": "India",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1973-51-37",
+   "image": "CHSDM-FCD44DCDDCF22-000001",
+   "page": "https://www.si.edu/object/chndm_1973-51-37",
+   "licence": "CC0",
+   "scan": [
+    3580,
+    4000
+   ],
+   "crop": [
+    933,
+    800,
+    2647,
+    3200
+   ],
+   "batch": 5,
+   "suggested_ink": "H",
+   "sun_ink": "S"
+  },
+  "chintz-pink-sprays": {
+   "piles": [
+    "maybe"
+   ],
+   "title": "Textile",
+   "date": "18th century",
+   "place": "India",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1973-51-66",
+   "image": "CHSDM-1B600F8DC06C2-000001",
+   "page": "https://www.si.edu/object/chndm_1973-51-66",
+   "licence": "CC0",
+   "scan": [
+    3403,
+    4000
+   ],
+   "crop": [
+    640,
+    1360,
+    1496,
+    2552
+   ],
+   "batch": 5,
+   "suggested_ink": "H",
+   "sun_ink": "S"
+  },
+  "lilac-roses-on-white": {
+   "piles": [
+    "maybe"
+   ],
+   "title": "Sidewall",
+   "date": "1830–50",
+   "place": "France",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1974-81-6-a_b",
+   "image": "CHSDM-1974-81-6-aMattFlynn",
+   "page": "https://www.si.edu/object/chndm_1974-81-6-a_b",
+   "licence": "CC0",
+   "scan": [
+    2170,
+    3000
+   ],
+   "crop": [
+    899,
+    360,
+    1541,
+    1253
+   ],
+   "batch": 5,
+   "suggested_ink": "H",
+   "sun_ink": "C"
+  },
+  "rose-wreath-design": {
+   "piles": [
+    "maybe"
+   ],
+   "title": "Design for Wallpaper and Textiles: Flowers",
+   "date": "19th century",
+   "place": "France",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1968-107-42",
+   "image": "CHSDM-7BDAD3322E9A2-000001",
+   "page": "https://www.si.edu/object/chndm_1968-107-42",
+   "licence": "CC0",
+   "scan": [
+    3195,
+    4000
+   ],
+   "crop": [
+    740,
+    800,
+    2455,
+    3200
+   ],
+   "batch": 5,
+   "suggested_ink": "H",
+   "sun_ink": "D"
+  },
+  "painted-bouquet-design": {
+   "piles": [
+    "maybe"
+   ],
+   "title": "Design for Wallpaper and Textiles: Flowers",
+   "date": "19th century",
+   "place": "France",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1968-107-47",
+   "image": "CHSDM-6EDCCE6C0C7F2-000001",
+   "page": "https://www.si.edu/object/chndm_1968-107-47",
+   "licence": "CC0",
+   "scan": [
+    3088,
+    4000
+   ],
+   "crop": [
+    960,
+    1600,
+    1816,
+    2792
+   ],
+   "batch": 5,
+   "suggested_ink": "H",
+   "sun_ink": "D"
+  },
+  "pink-roses-on-cream": {
+   "piles": [
+    "maybe"
+   ],
+   "title": "Sidewall",
+   "date": "1890–1900",
+   "place": "Brooklyn, New York, USA",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1939-45-15",
+   "image": "CHSDM-B9A449347A142-000001",
+   "page": "https://www.si.edu/object/chndm_1939-45-15",
+   "licence": "CC0",
+   "scan": [
+    2502,
+    3874
+   ],
+   "crop": [
+    976,
+    1464,
+    1720,
+    2503
+   ],
+   "batch": 5,
+   "suggested_ink": "H",
+   "sun_ink": "S"
+  },
+  "blue-lattice-with-flowers": {
+   "piles": [
+    "maybe"
+   ],
+   "title": "Textile",
+   "date": "1851–63",
+   "place": "Mulhouse, France",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1967-10-10-a",
+   "image": "CHSDM-137962_01",
+   "page": "https://www.si.edu/object/chndm_1967-10-10-a",
+   "licence": "CC0",
+   "scan": [
+    3123,
+    4000
+   ],
+   "crop": [
+    1120,
+    1760,
+    1976,
+    2952
+   ],
+   "batch": 5,
+   "suggested_ink": "S",
+   "sun_ink": "S"
+  },
+  "wisteria-on-trellis": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Sidewall",
+   "date": "1902",
+   "place": "Buffalo, New York, USA",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1971-58-9-a_b",
+   "image": "CHSDM-148413_02-000001",
+   "page": "https://www.si.edu/object/chndm_1971-58-9-a_b",
+   "licence": "CC0",
+   "scan": [
+    2831,
+    3000
+   ],
+   "crop": [
+    480,
+    80,
+    2526,
+    2943
+   ],
+   "batch": 6,
+   "sun_ink": "T",
+   "suggested_ink": "T"
+  },
+  "design-purple-feathery-sprays": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Floral design for printed textiles",
+   "date": "1800–1818",
+   "place": "France",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1957-46-47-c",
+   "image": "CHSDM-4EF746D459A22-000001",
+   "page": "https://www.si.edu/object/chndm_1957-46-47-c",
+   "licence": "CC0",
+   "scan": [
+    1280,
+    1215
+   ],
+   "crop": [
+    444,
+    128,
+    1148,
+    1114
+   ],
+   "batch": 6,
+   "sun_ink": "T",
+   "suggested_ink": "T"
+  },
+  "violet-bouquets-on-aqua": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Textile",
+   "date": "1851–63",
+   "place": "Mulhouse, France",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1967-10-3-b",
+   "image": "CHSDM-97F6130E9EA32-000001",
+   "page": "https://www.si.edu/object/chndm_1967-10-3-b",
+   "licence": "CC0",
+   "scan": [
+    3000,
+    2208
+   ],
+   "crop": [
+    450,
+    100,
+    1770,
+    1946
+   ],
+   "batch": 6,
+   "sun_ink": "T",
+   "suggested_ink": "T"
+  },
+  "violet-sprigs-frieze": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Frieze",
+   "date": "1905–1915",
+   "place": "USA",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1979-91-283",
+   "image": "CHSDM-160915_01-000001",
+   "page": "https://www.si.edu/object/chndm_1979-91-283",
+   "licence": "CC0",
+   "scan": [
+    3000,
+    1729
+   ],
+   "crop": [
+    650,
+    86,
+    1776,
+    1663
+   ],
+   "batch": 6,
+   "sun_ink": "T",
+   "suggested_ink": "T"
+  },
+  "mauve-silk-flowering-branches": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Textile",
+   "date": "ca. 1775",
+   "place": "France",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1952-149-5",
+   "image": "CHSDM-CD6EAC8796F82-000001",
+   "page": "https://www.si.edu/object/chndm_1952-149-5",
+   "licence": "CC0",
+   "scan": [
+    2839,
+    3000
+   ],
+   "crop": [
+    1560,
+    216,
+    2686,
+    1793
+   ],
+   "batch": 6,
+   "sun_ink": "T",
+   "suggested_ink": "T"
+  },
+  "purple-hydrangea-and-lilac": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Textile",
+   "date": "mid-19th century",
+   "place": "France, Mulhouse",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1967-10-19-a",
+   "image": "CHSDM-C21045BC88622-000001",
+   "page": "https://www.si.edu/object/chndm_1967-10-19-a",
+   "licence": "CC0",
+   "scan": [
+    3000,
+    2825
+   ],
+   "crop": [
+    383,
+    76,
+    2306,
+    2766
+   ],
+   "batch": 6,
+   "sun_ink": "T",
+   "suggested_ink": "T"
+  },
+  "cascading-wisteria": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Sidewall",
+   "date": "1890–1920",
+   "place": "Buffalo, New York, USA",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1973-2-4",
+   "image": "CHSDM-A8F9FEAB67DB2-000001",
+   "page": "https://www.si.edu/object/chndm_1973-2-4",
+   "licence": "CC0",
+   "scan": [
+    1863,
+    3000
+   ],
+   "crop": [
+    66,
+    66,
+    1793,
+    2483
+   ],
+   "batch": 6,
+   "sun_ink": "T",
+   "suggested_ink": "T"
+  },
+  "irises-on-cream": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Sidewall",
+   "date": "1890–1920",
+   "place": "possibly USA",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1973-2-9",
+   "image": "CHSDM-1973-2-9MattFlynn",
+   "page": "https://www.si.edu/object/chndm_1973-2-9",
+   "licence": "CC0",
+   "scan": [
+    1884,
+    3000
+   ],
+   "crop": [
+    75,
+    286,
+    1808,
+    2713
+   ],
+   "batch": 6,
+   "sun_ink": "T",
+   "suggested_ink": "T"
+  },
+  "pansy-and-violet-bouquet": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Designs for Wallpaper and Textiles: Flowers",
+   "date": "19th century",
+   "place": "France",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1968-107-26",
+   "image": "CHSDM-95B0FC9BE5242-000001",
+   "page": "https://www.si.edu/object/chndm_1968-107-26",
+   "licence": "CC0",
+   "scan": [
+    3000,
+    2341
+   ],
+   "crop": [
+    780,
+    163,
+    2219,
+    2177
+   ],
+   "batch": 6,
+   "sun_ink": "T",
+   "suggested_ink": "T",
+   "note": "A collector's stamp below the bouquet was painted out of the clipping."
+  },
+  "design-purple-flower-sprigs": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Design for the Embroidery of Wearing Apparel, No. 18, of the \"Fabrique de St. Ruf\"",
+   "date": "1780–1790",
+   "place": "France",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1920-36-65",
+   "image": "CHSDM-8FB34185F3DE2-000001",
+   "page": "https://www.si.edu/object/chndm_1920-36-65",
+   "licence": "CC0",
+   "scan": [
+    1936,
+    1250
+   ],
+   "crop": [
+    610,
+    125,
+    1325,
+    1125
+   ],
+   "batch": 6,
+   "sun_ink": "T",
+   "suggested_ink": "T"
+  },
+  "lilacs-on-grey": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Textile",
+   "date": "mid-19th century",
+   "place": "France, Mulhouse",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1967-10-20-a",
+   "image": "CHSDM-2F55DD669DDF2-000001",
+   "page": "https://www.si.edu/object/chndm_1967-10-20-a",
+   "licence": "CC0",
+   "scan": [
+    2535,
+    3000
+   ],
+   "crop": [
+    383,
+    76,
+    2376,
+    2866
+   ],
+   "batch": 6,
+   "sun_ink": "T",
+   "suggested_ink": "T"
+  },
+  "violets-on-lilac": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Textile",
+   "date": "1851–63",
+   "place": "Mulhouse, France",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1967-10-6-a",
+   "image": "CHSDM-D282C1EF7AC72-000001",
+   "page": "https://www.si.edu/object/chndm_1967-10-6-a",
+   "licence": "CC0",
+   "scan": [
+    3000,
+    1911
+   ],
+   "crop": [
+    840,
+    93,
+    2083,
+    1833
+   ],
+   "batch": 6,
+   "sun_ink": "T",
+   "suggested_ink": "T"
+  },
+  "purple-roses-silk": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Textile",
+   "date": "ca. 1915",
+   "place": "Lyon, France",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1938-82-163-b",
+   "image": "CHSDM-1938-82-163-bMattFlynn",
+   "page": "https://www.si.edu/object/chndm_1938-82-163-b",
+   "licence": "CC0",
+   "scan": [
+    3000,
+    1450
+   ],
+   "crop": [
+    1433,
+    166,
+    2280,
+    1350
+   ],
+   "batch": 6,
+   "sun_ink": "T",
+   "suggested_ink": "T"
+  },
+  "design-bold-purple-flowers": {
+   "piles": [
+    "originals",
+    "sunprints"
+   ],
+   "title": "Floral design for printed textile",
+   "date": "1800–1818",
+   "place": "France",
+   "museum": "Cooper Hewitt, Smithsonian Design Museum",
+   "record": "chndm_1957-46-65",
+   "image": "CHSDM-8ECE5F354B802-000001",
+   "page": "https://www.si.edu/object/chndm_1957-46-65",
+   "licence": "CC0",
+   "scan": [
+    2149,
+    3000
+   ],
+   "crop": [
+    153,
+    210,
+    1995,
+    2790
+   ],
+   "batch": 6,
+   "sun_ink": "T",
+   "suggested_ink": "T"
+  }
+ },
+ "rejected": {
+  "katagami-peonies-and-blossoms": {
+   "record": "chndm_1976-103-39",
+   "title": "Peonies and Blossoms",
+   "why": "Seth doesn't like the katagami stencils"
+  },
+  "katagami-peonies-on-waves": {
+   "record": "chndm_1976-103-48",
+   "title": "Peonies floating on water",
+   "why": "Seth doesn't like the katagami stencils"
+  },
+  "katagami-bird-among-peonies": {
+   "record": "chndm_1976-103-17",
+   "title": "Bird Among the Peonies",
+   "why": "Seth doesn't like the katagami stencils"
+  }
+ },
+ "taste": [
+  "Liked: crisp printed linework on light grounds (woodblock trial proofs, designs on paper for printed cottons), blue-and-white, grandma roses, painted wallpaper designs",
+  "Skip: Japanese katagami stencils",
+  "Stars papers: florals only, no \"wallpaper architecture\" (no stripes, bands, borders, trellises, frames); light open grounds on high cards so pips read"
+ ],
+ "deck": {
+  "S": {
+   "A": "bird-of-paradise-bloom",
+   "0": "roses-on-aqua",
+   "K": "blue-flowered-design",
+   "Q": "irises-and-lilac",
+   "J": "blue-lilac",
+   "2": "design-morning-glories",
+   "3": "design-blue-and-green-leaves",
+   "4": "blue-and-pink-sprays",
+   "5": "pink-carnations",
+   "6": "print-flower-sprays",
+   "7": "pink-roses-on-cream",
+   "8": "blue-lattice-with-flowers",
+   "9": "chintz-roses-blue-and-red",
+   "10": "chintz-pink-sprays"
+  },
+  "H": {
+   "A": "rose-bouquet",
+   "0": "quilt-bouquet",
+   "K": "red-roses-wallpaper",
+   "Q": "roses-on-white-wallpaper",
+   "J": "wallpaper-design-pink-blossom",
+   "2": "design-red-flowers-and-blue",
+   "3": "design-round-flowers",
+   "4": "proof-red-rose",
+   "5": "proof-carnation-sprig",
+   "6": "design-pink-and-purple-sprays",
+   "7": "cabbage-roses",
+   "8": "toile-bird",
+   "9": "design-red-on-speckle",
+   "10": "jacobean-red-flowers"
+  },
+  "C": {
+   "A": "trial-proof-carnation",
+   "0": "tulips-and-forget-me-nots",
+   "K": "lilac-roses-on-white",
+   "Q": "design-pink-wild-roses",
+   "J": "design-pink-roses",
+   "2": "proof-blue-narcissus",
+   "3": "proof-red-and-green-sprig",
+   "4": "design-trailing-pink-and-blue",
+   "5": "escholtzia",
+   "6": "design-thistles-and-bells",
+   "7": "design-grapevine",
+   "8": "design-flowering-branches",
+   "9": "design-poppy-and-primrose",
+   "10": "bright-floral-wallpaper"
+  },
+  "D": {
+   "A": "hibiscus-ink-print",
+   "0": "wallpaper-design-crown-imperial",
+   "K": "wallpaper-design-wallflowers",
+   "Q": "wallpaper-design-wildflowers",
+   "J": "painted-bouquet-design",
+   "2": "proof-blue-stars-on-yellow",
+   "3": "lily-border-design",
+   "4": "woodblock-pomegranate-design",
+   "5": "fern-and-bluebells",
+   "6": "design-yellow-and-magenta",
+   "7": "design-white-vine",
+   "8": "rose-wreath-design",
+   "9": "yellow-roses-wallpaper",
+   "10": "hydrangeas"
+  },
+  "T": {
+   "A": "wisteria-on-trellis",
+   "0": "design-bold-purple-flowers",
+   "K": "purple-roses-silk",
+   "Q": "violets-on-lilac",
+   "J": "lilacs-on-grey",
+   "2": "design-purple-feathery-sprays",
+   "3": "violet-bouquets-on-aqua",
+   "4": "violet-sprigs-frieze",
+   "5": "mauve-silk-flowering-branches",
+   "6": "purple-hydrangea-and-lilac",
+   "7": "cascading-wisteria",
+   "8": "irises-on-cream",
+   "9": "pansy-and-violet-bouquet",
+   "10": "design-purple-flower-sprigs"
+  }
+ },
+ "suits": {
+  "S": "spades (blue)",
+  "H": "hearts (red)",
+  "D": "diamonds (yellow)",
+  "C": "clubs (green)",
+  "T": "stars (purple, fifth suit)"
+ },
+ "inks": {
+  "T": {
+   "ink": [
+    74,
+    28,
+    112
+   ],
+   "cream": [
+    246,
+    238,
+    228
+   ],
+   "recipe": "tones stretched between the 2nd and 98th percentile, gamma 0.92, darks to ink, lights to cream, faint wash and grain"
+  }
+ }
+}
