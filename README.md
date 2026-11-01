@@ -48,4 +48,4 @@ A few clippings in the image folders aren't on any card; CREDITS.txt lists them 
 
 ## Where it's used
 
-The deck was made for a Schnapsen card game at [szk5334.github.io](https://szk5334.github.io).
+The deck was made for a Schnapsen card game at [szk5334.github.io/Schnapsen](https://szk5334.github.io/Schnapsen).
